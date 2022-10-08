@@ -14,11 +14,12 @@ body {
 .inline{
     display: inline;
     margin: 30px;
-    font-family: 'Montserrat Subrayada';
-    font-style: normal;
+    font-family: 'Montserrat', sans-serif;
+    font-style: bold;
     font-weight: 700;
     font-size: 40px;
     line-height: 49px;
+    color: white;
 }
 
 .logo {
